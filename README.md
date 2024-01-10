@@ -1,6 +1,6 @@
 this is a menu that lets you hack most games the games are listed down below.
 if the exe does not load or open turn off you're antivirus and try agian if it still dont work try opening it with admin.
-you need to open the menu before you open the game use at own risk.
+you need to open the menu after you open the game use at own risk.
 
 ARK Survival Evolved.
 
@@ -21,5 +21,7 @@ rust.
 war thunder.
 
 phasmophobia.
+
+valorant aimbot
 
 will be updated soon
